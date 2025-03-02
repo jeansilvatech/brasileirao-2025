@@ -24,7 +24,7 @@ const Teams = ()=>{
             <div className=" h-full w-full flex justify-center items-center">
                 {
                     teams?(
-                        <div className="w-3/4 flex justify-start items-center flex-wrap">
+                        <div className="w-3/4 flex lg:justify-start justify-center items-center flex-wrap">
                             {
                                 teams.map((item:any, index:number)=>(
                                     <div key={index} className="m-2">
