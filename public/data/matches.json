@@ -4,53 +4,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "bahia"
+        "principal": "sao-paulo",
+        "visitor": "sport"
       },
       {
         "match": 2,
         "principal": "cruzeiro",
-        "visitor": "botafogo"
+        "visitor": "mirassol"
       },
       {
         "match": 3,
-        "principal": "vitória",
-        "visitor": "palmeiras"
+        "principal": "gremio",
+        "visitor": "atletico"
       },
       {
         "match": 4,
-        "principal": "fluminense",
-        "visitor": "rb-bragantino"
+        "principal": "fortaleza",
+        "visitor": "fluminense"
       },
       {
         "match": 5,
-        "principal": "vasco",
-        "visitor": "grêmio"
+        "principal": "juventude",
+        "visitor": "vitoria"
       },
       {
         "match": 6,
-        "principal": "corinthians",
-        "visitor": "atlético"
+        "principal": "flamengo",
+        "visitor": "internacional"
       },
       {
         "match": 7,
-        "principal": "são-paulo",
-        "visitor": "fortaleza"
+        "principal": "palmeiras",
+        "visitor": "botafogo"
       },
       {
         "match": 8,
-        "principal": "athletico",
-        "visitor": "cuiabá"
+        "principal": "vasco",
+        "visitor": "santos"
       },
       {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "flamengo"
+        "principal": "bahia",
+        "visitor": "corinthians"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "juventude"
+        "principal": "rb-bragantino",
+        "visitor": "ceara"
       }
     ]
   },
@@ -59,53 +59,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "athletico"
+        "principal": "fluminense",
+        "visitor": "rb-bragantino"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "criciúma"
+        "principal": "botafogo",
+        "visitor": "juventude"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 5,
-        "principal": "botafogo",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "internacional"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
+        "principal": "corinthians",
         "visitor": "vasco"
       },
       {
-        "match": 8,
-        "principal": "fortaleza",
+        "match": 4,
+        "principal": "santos",
+        "visitor": "bahia"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "fortaleza"
+      },
+      {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "sao-paulo"
+      },
+      {
+        "match": 7,
+        "principal": "internacional",
         "visitor": "cruzeiro"
       },
       {
+        "match": 8,
+        "principal": "vitoria",
+        "visitor": "flamengo"
+      },
+      {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "vitória"
+        "principal": "ceara",
+        "visitor": "gremio"
       },
       {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "corinthians"
+        "principal": "sport",
+        "visitor": "palmeiras"
       }
     ]
   },
@@ -114,53 +114,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "cuiabá"
+        "principal": "fluminense",
+        "visitor": "santos"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "cruzeiro"
+        "principal": "vasco",
+        "visitor": "sport"
       },
       {
         "match": 3,
-        "principal": "vitória",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "fluminense",
-        "visitor": "vasco"
-      },
-      {
-        "match": 5,
-        "principal": "botafogo",
-        "visitor": "juventude"
-      },
-      {
-        "match": 6,
         "principal": "palmeiras",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
         "visitor": "corinthians"
       },
       {
+        "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "cruzeiro"
+      },
+      {
+        "match": 5,
+        "principal": "rb-bragantino",
+        "visitor": "botafogo"
+      },
+      {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "vitoria"
+      },
+      {
+        "match": 7,
+        "principal": "gremio",
+        "visitor": "flamengo"
+      },
+      {
         "match": 8,
-        "principal": "athletico",
-        "visitor": "internacional"
+        "principal": "bahia",
+        "visitor": "mirassol"
       },
       {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "são-paulo"
+        "principal": "fortaleza",
+        "visitor": "internacional"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "fortaleza"
+        "principal": "juventude",
+        "visitor": "ceara"
       }
     ]
   },
@@ -169,53 +169,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "atlético-go"
+        "principal": "flamengo",
+        "visitor": "juventude"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "vitória"
+        "principal": "botafogo",
+        "visitor": "sao-paulo"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 5,
-        "principal": "vasco",
-        "visitor": "criciúma"
-      },
-      {
-        "match": 6,
         "principal": "corinthians",
         "visitor": "fluminense"
       },
       {
+        "match": 4,
+        "principal": "santos",
+        "visitor": "atletico"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "gremio"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "bahia"
+      },
+      {
         "match": 7,
-        "principal": "são-paulo",
+        "principal": "internacional",
         "visitor": "palmeiras"
       },
       {
         "match": 8,
-        "principal": "fortaleza",
-        "visitor": "rb-bragantino"
+        "principal": "vitoria",
+        "visitor": "fortaleza"
       },
       {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "atlético"
+        "principal": "ceara",
+        "visitor": "vasco"
       },
       {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "athletico"
+        "principal": "sport",
+        "visitor": "rb-bragantino"
       }
     ]
   },
@@ -224,53 +224,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "criciúma"
+        "principal": "fluminense",
+        "visitor": "vitoria"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "internacional"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 4,
-        "principal": "fluminense",
-        "visitor": "atlético"
-      },
-      {
-        "match": 5,
-        "principal": "botafogo",
-        "visitor": "bahia"
-      },
-      {
-        "match": 6,
-        "principal": "corinthians",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
+        "principal": "vasco",
         "visitor": "flamengo"
       },
       {
+        "match": 3,
+        "principal": "corinthians",
+        "visitor": "sport"
+      },
+      {
+        "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "santos"
+      },
+      {
+        "match": 5,
+        "principal": "rb-bragantino",
+        "visitor": "cruzeiro"
+      },
+      {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "botafogo"
+      },
+      {
+        "match": 7,
+        "principal": "gremio",
+        "visitor": "internacional"
+      },
+      {
         "match": 8,
-        "principal": "athletico",
-        "visitor": "vasco"
+        "principal": "bahia",
+        "visitor": "ceara"
       },
       {
         "match": 9,
-        "principal": "cuiabá",
+        "principal": "fortaleza",
         "visitor": "palmeiras"
       },
       {
         "match": 10,
         "principal": "juventude",
-        "visitor": "atlético-go"
+        "visitor": "mirassol"
       }
     ]
   },
@@ -279,53 +279,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "juventude"
-      },
-      {
-        "match": 2,
-        "principal": "atlético",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 3,
-        "principal": "bahia",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 4,
         "principal": "flamengo",
         "visitor": "corinthians"
       },
       {
-        "match": 5,
-        "principal": "vasco",
-        "visitor": "vitória"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "athletico"
-      },
-      {
-        "match": 7,
-        "principal": "são-paulo",
+        "match": 2,
+        "principal": "botafogo",
         "visitor": "fluminense"
       },
       {
+        "match": 3,
+        "principal": "palmeiras",
+        "visitor": "bahia"
+      },
+      {
+        "match": 4,
+        "principal": "santos",
+        "visitor": "rb-bragantino"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "atletico"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "vasco"
+      },
+      {
+        "match": 7,
+        "principal": "internacional",
+        "visitor": "juventude"
+      },
+      {
         "match": 8,
-        "principal": "fortaleza",
-        "visitor": "botafogo"
+        "principal": "vitoria",
+        "visitor": "gremio"
       },
       {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "cruzeiro"
+        "principal": "ceara",
+        "visitor": "sao-paulo"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "cuiabá"
+        "principal": "sport",
+        "visitor": "fortaleza"
       }
     ]
   },
@@ -334,53 +334,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "rb-bragantino"
+        "principal": "fluminense",
+        "visitor": "sport"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "bahia"
+        "principal": "vasco",
+        "visitor": "palmeiras"
       },
       {
         "match": 3,
-        "principal": "vitória",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 4,
-        "principal": "fluminense",
-        "visitor": "juventude"
-      },
-      {
-        "match": 5,
-        "principal": "vasco",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 6,
         "principal": "corinthians",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 7,
-        "principal": "são-paulo",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 8,
-        "principal": "fortaleza",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "cuiabá",
         "visitor": "internacional"
       },
       {
+        "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "fortaleza"
+      },
+      {
+        "match": 5,
+        "principal": "rb-bragantino",
+        "visitor": "mirassol"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "flamengo"
+      },
+      {
+        "match": 7,
+        "principal": "gremio",
+        "visitor": "santos"
+      },
+      {
+        "match": 8,
+        "principal": "bahia",
+        "visitor": "botafogo"
+      },
+      {
+        "match": 9,
+        "principal": "ceara",
+        "visitor": "vitoria"
+      },
+      {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "palmeiras"
+        "principal": "juventude",
+        "visitor": "atletico"
       }
     ]
   },
@@ -389,53 +389,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "são-paulo"
+        "principal": "flamengo",
+        "visitor": "bahia"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "cuiabá"
+        "principal": "botafogo",
+        "visitor": "internacional"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "fortaleza"
+        "principal": "palmeiras",
+        "visitor": "sao-paulo"
       },
       {
         "match": 4,
-        "principal": "flamengo",
-        "visitor": "grêmio"
+        "principal": "santos",
+        "visitor": "ceara"
       },
       {
         "match": 5,
-        "principal": "botafogo",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "vasco"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "atlético"
-      },
-      {
-        "match": 8,
-        "principal": "athletico",
-        "visitor": "criciúma"
-      },
-      {
-        "match": 9,
-        "principal": "atlético-go",
+        "principal": "mirassol",
         "visitor": "corinthians"
       },
       {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "fluminense"
+      },
+      {
+        "match": 7,
+        "principal": "gremio",
+        "visitor": "rb-bragantino"
+      },
+      {
+        "match": 8,
+        "principal": "vitoria",
+        "visitor": "vasco"
+      },
+      {
+        "match": 9,
+        "principal": "fortaleza",
+        "visitor": "juventude"
+      },
+      {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "vitória"
+        "principal": "sport",
+        "visitor": "cruzeiro"
       }
     ]
   },
@@ -444,53 +444,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
+        "principal": "flamengo",
         "visitor": "botafogo"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "internacional"
-      },
-      {
-        "match": 4,
-        "principal": "fluminense",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 5,
         "principal": "vasco",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 6,
-        "principal": "corinthians",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "juventude"
-      },
-      {
-        "match": 8,
-        "principal": "athletico",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 9,
-        "principal": "cuiabá",
         "visitor": "fortaleza"
       },
       {
+        "match": 3,
+        "principal": "corinthians",
+        "visitor": "santos"
+      },
+      {
+        "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "gremio"
+      },
+      {
+        "match": 5,
+        "principal": "rb-bragantino",
+        "visitor": "palmeiras"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "atletico"
+      },
+      {
+        "match": 7,
+        "principal": "internacional",
+        "visitor": "mirassol"
+      },
+      {
+        "match": 8,
+        "principal": "bahia",
+        "visitor": "vitoria"
+      },
+      {
+        "match": 9,
+        "principal": "ceara",
+        "visitor": "sport"
+      },
+      {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "bahia"
+        "principal": "juventude",
+        "visitor": "fluminense"
       }
     ]
   },
@@ -499,53 +499,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "corinthians"
+        "principal": "fluminense",
+        "visitor": "vasco"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "fluminense"
+        "principal": "botafogo",
+        "visitor": "ceara"
       },
       {
         "match": 3,
-        "principal": "vitória",
-        "visitor": "atlético"
+        "principal": "palmeiras",
+        "visitor": "flamengo"
       },
       {
         "match": 4,
-        "principal": "flamengo",
-        "visitor": "bahia"
+        "principal": "sao-paulo",
+        "visitor": "mirassol"
       },
       {
         "match": 5,
-        "principal": "botafogo",
-        "visitor": "athletico"
+        "principal": "rb-bragantino",
+        "visitor": "juventude"
       },
       {
         "match": 6,
-        "principal": "palmeiras",
-        "visitor": "rb-bragantino"
+        "principal": "atletico",
+        "visitor": "corinthians"
       },
       {
         "match": 7,
-        "principal": "são-paulo",
-        "visitor": "cuiabá"
+        "principal": "gremio",
+        "visitor": "bahia"
       },
       {
         "match": 8,
-        "principal": "fortaleza",
-        "visitor": "grêmio"
+        "principal": "vitoria",
+        "visitor": "santos"
       },
       {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "criciúma"
+        "principal": "fortaleza",
+        "visitor": "cruzeiro"
       },
       {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "vasco"
+        "principal": "sport",
+        "visitor": "internacional"
       }
     ]
   },
@@ -554,53 +554,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "atlético",
+        "principal": "flamengo",
         "visitor": "fortaleza"
       },
       {
+        "match": 2,
+        "principal": "vasco",
+        "visitor": "rb-bragantino"
+      },
+      {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "cruzeiro"
+        "principal": "corinthians",
+        "visitor": "vitoria"
       },
       {
         "match": 4,
-        "principal": "fluminense",
-        "visitor": "flamengo"
+        "principal": "santos",
+        "visitor": "botafogo"
       },
       {
         "match": 5,
-        "principal": "vasco",
-        "visitor": "são-paulo"
+        "principal": "mirassol",
+        "visitor": "sport"
       },
       {
         "match": 6,
-        "principal": "palmeiras",
-        "visitor": "juventude"
+        "principal": "cruzeiro",
+        "visitor": "palmeiras"
       },
       {
         "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "vitória"
+        "principal": "internacional",
+        "visitor": "fluminense"
       },
       {
         "match": 8,
-        "principal": "athletico",
-        "visitor": "corinthians"
+        "principal": "bahia",
+        "visitor": "sao-paulo"
       },
       {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "atlético-go"
+        "principal": "ceara",
+        "visitor": "atletico"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "botafogo"
+        "principal": "juventude",
+        "visitor": "gremio"
       }
     ]
   },
@@ -609,52 +609,52 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "atlético"
+        "principal": "fluminense",
+        "visitor": "ceara"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "athletico"
+        "principal": "botafogo",
+        "visitor": "mirassol"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "vasco"
+        "principal": "palmeiras",
+        "visitor": "juventude"
       },
       {
         "match": 4,
-        "principal": "fluminense",
-        "visitor": "vitória"
+        "principal": "sao-paulo",
+        "visitor": "vasco"
       },
       {
         "match": 5,
-        "principal": "botafogo",
-        "visitor": "rb-bragantino"
+        "principal": "rb-bragantino",
+        "visitor": "bahia"
       },
       {
         "match": 6,
-        "principal": "corinthians",
-        "visitor": "cuiabá"
+        "principal": "atletico",
+        "visitor": "internacional"
       },
       {
         "match": 7,
-        "principal": "são-paulo",
-        "visitor": "criciúma"
+        "principal": "gremio",
+        "visitor": "corinthians"
       },
       {
         "match": 8,
-        "principal": "fortaleza",
-        "visitor": "palmeiras"
+        "principal": "vitoria",
+        "visitor": "cruzeiro"
       },
       {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "grêmio"
+        "principal": "fortaleza",
+        "visitor": "santos"
       },
       {
         "match": 10,
-        "principal": "juventude",
+        "principal": "sport",
         "visitor": "flamengo"
       }
     ]
@@ -664,53 +664,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "fluminense"
+        "principal": "flamengo",
+        "visitor": "sao-paulo"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "athletico"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 5,
         "principal": "vasco",
         "visitor": "botafogo"
       },
       {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "são-paulo",
-        "visitor": "bahia"
-      },
-      {
-        "match": 8,
-        "principal": "fortaleza",
-        "visitor": "juventude"
-      },
-      {
-        "match": 9,
-        "principal": "cuiabá",
+        "match": 3,
+        "principal": "corinthians",
         "visitor": "rb-bragantino"
       },
       {
+        "match": 4,
+        "principal": "santos",
+        "visitor": "palmeiras"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "fluminense"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "gremio"
+      },
+      {
+        "match": 7,
+        "principal": "internacional",
+        "visitor": "vitoria"
+      },
+      {
+        "match": 8,
+        "principal": "bahia",
+        "visitor": "atletico"
+      },
+      {
+        "match": 9,
+        "principal": "fortaleza",
+        "visitor": "ceara"
+      },
+      {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "internacional"
+        "principal": "juventude",
+        "visitor": "sport"
       }
     ]
   },
@@ -719,53 +719,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "palmeiras"
+        "principal": "fluminense",
+        "visitor": "cruzeiro"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "flamengo"
+        "principal": "botafogo",
+        "visitor": "vitoria"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "juventude"
+        "principal": "palmeiras",
+        "visitor": "mirassol"
       },
       {
         "match": 4,
-        "principal": "fluminense",
-        "visitor": "internacional"
+        "principal": "santos",
+        "visitor": "flamengo"
       },
       {
         "match": 5,
-        "principal": "vasco",
-        "visitor": "fortaleza"
+        "principal": "rb-bragantino",
+        "visitor": "sao-paulo"
       },
       {
         "match": 6,
-        "principal": "corinthians",
-        "visitor": "vitória"
+        "principal": "atletico",
+        "visitor": "sport"
       },
       {
         "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "atlético-go"
+        "principal": "gremio",
+        "visitor": "fortaleza"
       },
       {
         "match": 8,
-        "principal": "athletico",
-        "visitor": "são-paulo"
+        "principal": "bahia",
+        "visitor": "internacional"
       },
       {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "botafogo"
+        "principal": "ceara",
+        "visitor": "corinthians"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "cruzeiro"
+        "principal": "juventude",
+        "visitor": "vasco"
       }
     ]
   },
@@ -774,53 +774,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "vasco"
-      },
-      {
-        "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "criciúma"
-      },
-      {
-        "match": 4,
         "principal": "flamengo",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 5,
-        "principal": "botafogo",
-        "visitor": "atlético"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "bahia"
-      },
-      {
-        "match": 7,
-        "principal": "são-paulo",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "fortaleza",
         "visitor": "fluminense"
       },
       {
+        "match": 2,
+        "principal": "vasco",
+        "visitor": "gremio"
+      },
+      {
+        "match": 3,
+        "principal": "palmeiras",
+        "visitor": "atletico"
+      },
+      {
+        "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "corinthians"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "santos"
+      },
+      {
+        "match": 6,
+        "principal": "cruzeiro",
+        "visitor": "juventude"
+      },
+      {
+        "match": 7,
+        "principal": "internacional",
+        "visitor": "ceara"
+      },
+      {
+        "match": 8,
+        "principal": "vitoria",
+        "visitor": "rb-bragantino"
+      },
+      {
         "match": 9,
-        "principal": "atlético-go",
-        "visitor": "athletico"
+        "principal": "fortaleza",
+        "visitor": "bahia"
       },
       {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "grêmio"
+        "principal": "sport",
+        "visitor": "botafogo"
       }
     ]
   },
@@ -829,53 +829,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "cruzeiro"
+        "principal": "fluminense",
+        "visitor": "palmeiras"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 5,
         "principal": "vasco",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "internacional"
-      },
-      {
-        "match": 8,
-        "principal": "athletico",
         "visitor": "bahia"
       },
       {
+        "match": 3,
+        "principal": "corinthians",
+        "visitor": "cruzeiro"
+      },
+      {
+        "match": 4,
+        "principal": "santos",
+        "visitor": "internacional"
+      },
+      {
+        "match": 5,
+        "principal": "rb-bragantino",
+        "visitor": "flamengo"
+      },
+      {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "fortaleza"
+      },
+      {
+        "match": 7,
+        "principal": "gremio",
+        "visitor": "botafogo"
+      },
+      {
+        "match": 8,
+        "principal": "vitoria",
+        "visitor": "sport"
+      },
+      {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "juventude"
+        "principal": "ceara",
+        "visitor": "mirassol"
       },
       {
         "match": 10,
-        "principal": "criciúma",
-        "visitor": "fluminense"
+        "principal": "juventude",
+        "visitor": "sao-paulo"
       }
     ]
   },
@@ -884,53 +884,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "flamengo"
+        "principal": "flamengo",
+        "visitor": "atletico"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "rb-bragantino"
+        "principal": "botafogo",
+        "visitor": "corinthians"
       },
       {
         "match": 3,
-        "principal": "bahia",
-        "visitor": "cuiabá"
+        "principal": "palmeiras",
+        "visitor": "gremio"
       },
       {
         "match": 4,
-        "principal": "fluminense",
-        "visitor": "athletico"
+        "principal": "sao-paulo",
+        "visitor": "fluminense"
       },
       {
         "match": 5,
-        "principal": "botafogo",
-        "visitor": "palmeiras"
+        "principal": "mirassol",
+        "visitor": "vitoria"
       },
       {
         "match": 6,
-        "principal": "corinthians",
-        "visitor": "criciúma"
+        "principal": "cruzeiro",
+        "visitor": "ceara"
       },
       {
         "match": 7,
-        "principal": "são-paulo",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 8,
-        "principal": "fortaleza",
-        "visitor": "vitória"
-      },
-      {
-        "match": 9,
-        "principal": "atlético-go",
+        "principal": "internacional",
         "visitor": "vasco"
       },
       {
+        "match": 8,
+        "principal": "bahia",
+        "visitor": "juventude"
+      },
+      {
+        "match": 9,
+        "principal": "fortaleza",
+        "visitor": "rb-bragantino"
+      },
+      {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "atlético"
+        "principal": "sport",
+        "visitor": "santos"
       }
     ]
   },
@@ -939,53 +939,53 @@
     "matches": [
       {
         "match": 1,
-        "principal": "grêmio",
-        "visitor": "vitória"
+        "principal": "fluminense",
+        "visitor": "gremio"
       },
       {
         "match": 2,
-        "principal": "atlético",
-        "visitor": "vasco"
-      },
-      {
-        "match": 3,
-        "principal": "bahia",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "criciúma"
-      },
-      {
-        "match": 5,
         "principal": "botafogo",
-        "visitor": "internacional"
-      },
-      {
-        "match": 6,
-        "principal": "palmeiras",
         "visitor": "cruzeiro"
       },
       {
+        "match": 3,
+        "principal": "corinthians",
+        "visitor": "fortaleza"
+      },
+      {
+        "match": 4,
+        "principal": "santos",
+        "visitor": "juventude"
+      },
+      {
+        "match": 5,
+        "principal": "mirassol",
+        "visitor": "vasco"
+      },
+      {
+        "match": 6,
+        "principal": "atletico",
+        "visitor": "rb-bragantino"
+      },
+      {
         "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "athletico"
+        "principal": "internacional",
+        "visitor": "sao-paulo"
       },
       {
         "match": 8,
-        "principal": "fortaleza",
-        "visitor": "atlético-go"
+        "principal": "vitoria",
+        "visitor": "palmeiras"
       },
       {
         "match": 9,
-        "principal": "cuiabá",
-        "visitor": "fluminense"
+        "principal": "ceara",
+        "visitor": "flamengo"
       },
       {
         "match": 10,
-        "principal": "juventude",
-        "visitor": "são-paulo"
+        "principal": "sport",
+        "visitor": "bahia"
       }
     ]
   },
@@ -994,1099 +994,1099 @@
     "matches": [
       {
         "match": 1,
-        "principal": "internacional",
-        "visitor": "fortaleza"
+        "principal": "flamengo",
+        "visitor": "mirassol"
       },
       {
         "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "juventude"
-      },
-      {
-        "match": 3,
-        "principal": "vitória",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 4,
-        "principal": "fluminense",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 5,
         "principal": "vasco",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 6,
-        "principal": "corinthians",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 7,
-        "principal": "são-paulo",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 8,
-        "principal": "athletico",
-        "visitor": "atlético"
-      },
-      {
-        "match": 9,
-        "principal": "atlético-go",
-        "visitor": "bahia"
-      },
-      {
-        "match": 10,
-        "principal": "criciúma",
-        "visitor": "rb-bragantino"
-      }
-    ]
-  },
-  {
-    "round": 20,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "bahia",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "botafogo",
-        "visitor": "cruzeiro"
+        "visitor": "atletico"
       },
       {
         "match": 3,
         "principal": "palmeiras",
-        "visitor": "vitória"
+        "visitor": "ceara"
       },
       {
         "match": 4,
+        "principal": "sao-paulo",
+        "visitor": "vitoria"
+      },
+      {
+        "match": 5,
         "principal": "rb-bragantino",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "grêmio",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "atlético",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "fortaleza",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "cuiabá",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "flamengo",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "visitor": "juventude",
-        "principal": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 21,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "athletico",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "criciúma",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "fluminense",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "são-paulo",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "atlético-go",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "internacional",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "vasco",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "cruzeiro",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "vitória",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "corinthians",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 22,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "cuiabá",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "cruzeiro",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "bahia",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "vasco",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "juventude",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "flamengo",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "corinthians",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "internacional",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "são-paulo",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "fortaleza",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 23,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "atlético-go",
         "visitor": "internacional"
       },
       {
-        "match": 2,
-        "principal": "vitória",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "grêmio",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "botafogo",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "criciúma",
-        "visitor": "vasco"
-      },
-      {
         "match": 6,
-        "principal": "fluminense",
-        "visitor": "corinthians"
+        "principal": "cruzeiro",
+        "visitor": "santos"
       },
       {
         "match": 7,
-        "principal": "palmeiras",
-        "visitor": "são-paulo"
+        "principal": "gremio",
+        "visitor": "sport"
       },
       {
         "match": 8,
-        "principal": "rb-bragantino",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "atlético",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "athletico",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 24,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "criciúma",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "internacional",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "são-paulo",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "atlético",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
         "principal": "bahia",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "fortaleza",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "flamengo",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "vasco",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "palmeiras",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "atlético-go",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 25,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "juventude",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "grêmio",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "rb-bragantino",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "corinthians",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "vitória",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "athletico",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "fluminense",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "botafogo",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "cruzeiro",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "cuiabá",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 26,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "rb-bragantino",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "bahia",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "atlético-go",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "juventude",
         "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "flamengo",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "botafogo",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "cruzeiro",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "athletico",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "internacional",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "palmeiras",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 27,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "são-paulo",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "cuiabá",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "fortaleza",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "grêmio",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "fluminense",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "vasco",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "atlético",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "criciúma",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "corinthians",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "vitória",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 28,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "botafogo",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "palmeiras",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "internacional",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "atlético-go",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "cruzeiro",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "são-paulo",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "juventude",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "flamengo",
-        "visitor": "athletico"
       },
       {
         "match": 9,
         "principal": "fortaleza",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "bahia",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 29,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "corinthians",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "fluminense",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "atlético",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "bahia",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "athletico",
         "visitor": "botafogo"
       },
       {
-        "match": 6,
-        "principal": "rb-bragantino",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "cuiabá",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "grêmio",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "criciúma",
-        "visitor": "atlético-go"
-      },
-      {
         "match": 10,
-        "principal": "vasco",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 30,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "internacional",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "fortaleza",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "cruzeiro",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "flamengo",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "são-paulo",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
         "principal": "juventude",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "vitória",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "corinthians",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "atlético-go",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "botafogo",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 31,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "atlético",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "athletico",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "vasco",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "vitória",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "rb-bragantino",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "cuiabá",
         "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "criciúma",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "palmeiras",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "grêmio",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "flamengo",
-        "visitor": "juventude"
       }
     ]
   },
   {
-    "round": 32,
+    "round": 20, 
     "matches": [
       {
         "match": 1,
+        "principal": "sport",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 2,
+        "principal": "mirassol",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "atletico",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 4, 
         "principal": "fluminense",
-        "visitor": "grêmio"
-      },
+        "visitor": "fortaleza" 
+      }, 
       {
-        "match": 2,
-        "principal": "atlético-go",
-        "visitor": "atlético"
-      },
+        "match": 5, 
+        "principal": "vitoria",
+        "visitor": "juventude" 
+      }, 
       {
-        "match": 3,
-        "principal": "athletico",
-        "visitor": "vitória"
-      },
+        "match": 6, 
+        "principal": "internacional",
+        "visitor": "flamengo" 
+      }, 
       {
-        "match": 4,
-        "principal": "cruzeiro",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
+        "match": 7, 
         "principal": "botafogo",
-        "visitor": "vasco"
-      },
+        "visitor": "palmeiras" 
+      }, 
       {
-        "match": 6,
+        "match": 8, 
+        "principal": "santos",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 9, 
         "principal": "corinthians",
-        "visitor": "palmeiras"
-      },
+        "visitor": "bahia" 
+      }, 
       {
-        "match": 7,
-        "principal": "bahia",
-        "visitor": "são-paulo"
-      },
+        "match": 10, 
+        "principal": "ceara",
+        "visitor": "rb-bragantino" 
+      }
+    ]
+  }, 
+  {
+    "round": 21, 
+    "matches": [
       {
-        "match": 8,
-        "principal": "juventude",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
+        "match": 1, 
         "principal": "rb-bragantino",
-        "visitor": "cuiabá"
-      },
+        "visitor": "fluminense" 
+      }, 
       {
-        "match": 10,
-        "principal": "internacional",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 33,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "palmeiras",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "flamengo",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
+        "match": 2, 
         "principal": "juventude",
-        "visitor": "bahia"
-      },
+        "visitor": "botafogo" 
+      }, 
       {
-        "match": 4,
-        "principal": "internacional",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "fortaleza",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "vitória",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "atlético-go",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "são-paulo",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "botafogo",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "cruzeiro",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 34,
-    "matches": [
-      {
-        "match": 1,
+        "match": 3, 
         "principal": "vasco",
-        "visitor": "internacional"
-      },
+        "visitor": "corinthians" 
+      }, 
       {
-        "match": 2,
-        "principal": "corinthians",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "criciúma",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
-        "principal": "cuiabá",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "atlético",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
+        "match": 4, 
         "principal": "bahia",
-        "visitor": "palmeiras"
-      },
+        "visitor": "santos" 
+      }, 
       {
-        "match": 7,
-        "principal": "rb-bragantino",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "fluminense",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "athletico",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "grêmio",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 35,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "cruzeiro",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "são-paulo",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "botafogo",
-        "visitor": "vitória"
-      },
-      {
-        "match": 4,
+        "match": 5, 
         "principal": "fortaleza",
-        "visitor": "flamengo"
-      },
+        "visitor": "mirassol" 
+      }, 
       {
-        "match": 5,
-        "principal": "corinthians",
-        "visitor": "vasco"
-      },
+        "match": 6, 
+        "principal": "sao-paulo",
+        "visitor": "atletico" 
+      }, 
       {
-        "match": 6,
-        "principal": "atlético-go",
-        "visitor": "palmeiras"
-      },
-      {
-        "match": 7,
-        "principal": "internacional",
-        "visitor": "rb-bragantino"
-      },
-      {
-        "match": 8,
-        "principal": "bahia",
-        "visitor": "athletico"
-      },
-      {
-        "match": 9,
-        "principal": "juventude",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "fluminense",
-        "visitor": "criciúma"
-      }
-    ]
-  },
-  {
-    "round": 36,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "flamengo",
-        "visitor": "internacional"
-      },
-      {
-        "match": 2,
-        "principal": "rb-bragantino",
-        "visitor": "cruzeiro"
-      },
-      {
-        "match": 3,
-        "principal": "cuiabá",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "athletico",
-        "visitor": "fluminense"
-      },
-      {
-        "match": 5,
-        "principal": "palmeiras",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
-        "principal": "criciúma",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
-        "principal": "grêmio",
-        "visitor": "são-paulo"
-      },
-      {
-        "match": 8,
-        "principal": "vitória",
-        "visitor": "fortaleza"
-      },
-      {
-        "match": 9,
-        "principal": "vasco",
-        "visitor": "atlético-go"
-      },
-      {
-        "match": 10,
-        "principal": "atlético",
-        "visitor": "juventude"
-      }
-    ]
-  },
-  {
-    "round": 37,
-    "matches": [
-      {
-        "match": 1,
-        "principal": "vitória",
-        "visitor": "grêmio"
-      },
-      {
-        "match": 2,
-        "principal": "vasco",
-        "visitor": "atlético"
-      },
-      {
-        "match": 3,
-        "principal": "corinthians",
-        "visitor": "bahia"
-      },
-      {
-        "match": 4,
-        "principal": "criciúma",
-        "visitor": "flamengo"
-      },
-      {
-        "match": 5,
-        "principal": "internacional",
-        "visitor": "botafogo"
-      },
-      {
-        "match": 6,
+        "match": 7, 
         "principal": "cruzeiro",
-        "visitor": "palmeiras"
-      },
+        "visitor": "internacional" 
+      }, 
       {
-        "match": 7,
-        "principal": "athletico",
-        "visitor": "rb-bragantino"
-      },
+        "match": 8, 
+        "principal": "flamengo",
+        "visitor": "vitoria" 
+      }, 
       {
-        "match": 8,
-        "principal": "atlético-go",
-        "visitor": "fortaleza"
-      },
+        "match": 9, 
+        "principal": "gremio",
+        "visitor": "ceara" 
+      }, 
       {
-        "match": 9,
-        "principal": "fluminense",
-        "visitor": "cuiabá"
-      },
-      {
-        "match": 10,
-        "principal": "são-paulo",
-        "visitor": "juventude"
+        "match": 10, 
+        "principal": "palmeiras",
+        "visitor": "sport" 
       }
     ]
-  },
+  }, 
   {
-    "round": 38,
+    "round": 22, 
     "matches": [
       {
-        "match": 1,
-        "principal": "fortaleza",
-        "visitor": "internacional"
-      },
+        "match": 1, 
+        "principal": "santos",
+        "visitor": "fluminense" 
+      }, 
       {
-        "match": 2,
-        "principal": "juventude",
-        "visitor": "cruzeiro"
-      },
+        "match": 2, 
+        "principal": "sport",
+        "visitor": "vasco" 
+      }, 
       {
-        "match": 3,
-        "principal": "flamengo",
-        "visitor": "vitória"
-      },
+        "match": 3, 
+        "principal": "corinthians",
+        "visitor": "palmeiras" 
+      }, 
       {
-        "match": 4,
-        "principal": "palmeiras",
-        "visitor": "fluminense"
-      },
+        "match": 4, 
+        "principal": "cruzeiro",
+        "visitor": "sao-paulo" 
+      }, 
       {
-        "match": 5,
-        "principal": "cuiabá",
-        "visitor": "vasco"
-      },
-      {
-        "match": 6,
-        "principal": "grêmio",
-        "visitor": "corinthians"
-      },
-      {
-        "match": 7,
+        "match": 5, 
         "principal": "botafogo",
-        "visitor": "são-paulo"
-      },
+        "visitor": "rb-bragantino" 
+      }, 
       {
-        "match": 8,
-        "principal": "atlético",
-        "visitor": "athletico"
-      },
+        "match": 6, 
+        "principal": "vitoria",
+        "visitor": "atletico" 
+      }, 
       {
-        "match": 9,
-        "principal": "bahia",
-        "visitor": "atlético-go"
-      },
+        "match": 7, 
+        "principal": "flamengo",
+        "visitor": "gremio" 
+      }, 
       {
-        "match": 10,
-        "principal": "rb-bragantino",
-        "visitor": "criciúma"
+        "match": 8, 
+        "principal": "mirassol",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "internacional",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "ceara",
+        "visitor": "juventude" 
       }
     ]
-  }
+  }, 
+  {
+    "round":23, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "juventude",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "sao-paulo",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "fluminense",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "atletico",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "gremio",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "bahia",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "palmeiras",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "fortaleza",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "vasco",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "rb-bragantino",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 24, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "vitoria",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "flamengo",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "sport",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "santos",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "cruzeiro",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "botafogo",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "internacional",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "ceara",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "palmeiras",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "mirassol",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round":25, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "corinthians",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "fluminense",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "bahia",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "rb-bragantino",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "atletico",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "vasco",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "juventude",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "gremio",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "sao-paulo",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "fortaleza",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 26, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "sport",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "palmeiras",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "internacional",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "fortaleza",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "mirassol",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "flamengo",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "santos",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "botafogo",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "vitoria",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "visitor": "juventude", 
+        "principal": "atletico"
+      }
+    ]
+  }, 
+  {
+    "round": 27, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "bahia",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "internacional",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "sao-paulo",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "ceara",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "corinthians",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "fluminense",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "rb-bragantino",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "vasco",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "juventude",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "cruzeiro",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 28, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "botafogo",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "fortaleza",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "santos",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "gremio",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "palmeiras",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "atletico",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "mirassol",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "vitoria",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "sport",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "fluminense",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round": 29, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "vasco",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "ceara",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "flamengo",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "mirassol",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "juventude",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "corinthians",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "bahia",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "santos",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "cruzeiro",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "internacional",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 30, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "fortaleza",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "rb-bragantino",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "vitoria",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "botafogo",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "sport",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "palmeiras",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "fluminense",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "sao-paulo",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "atletico",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "gremio",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round": 31, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "ceara",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "mirassol",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "juventude",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "vasco",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "bahia",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "internacional",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "corinthians",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "cruzeiro",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "santos",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "flamengo",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 32, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "sao-paulo",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "botafogo",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "rb-bragantino",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "palmeiras",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "fluminense",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "gremio",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "vitoria",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "atletico",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "ceara",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "sport",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round": 33, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "cruzeiro",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "vitoria",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "mirassol",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "flamengo",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "sao-paulo",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "sport",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "fortaleza",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "internacional",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "corinthians",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "vasco",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round": 34, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "fluminense",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "gremio",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "atletico",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "corinthians",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "santos",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "juventude",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "ceara",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "rb-bragantino",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "bahia",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "botafogo",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 35, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "palmeiras",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "bahia",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "cruzeiro",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "internacional",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "flamengo",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "fortaleza",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "botafogo",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "sport",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "mirassol",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "sao-paulo",
+        "visitor": "juventude" 
+      }
+    ]
+  }, 
+  {
+    "round": 36, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "atletico",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "corinthians",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "gremio",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "fluminense",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "vitoria",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "ceara",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "vasco",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "juventude",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "rb-bragantino",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "santos",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 37, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "gremio",
+        "visitor": "fluminense" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "cruzeiro",
+        "visitor": "botafogo" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "fortaleza",
+        "visitor": "corinthians" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "juventude",
+        "visitor": "santos" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "vasco",
+        "visitor": "mirassol" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "rb-bragantino",
+        "visitor": "atletico" 
+      }, 
+      {
+        "match": 7, 
+        "principal": "sao-paulo",
+        "visitor": "internacional" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "palmeiras",
+        "visitor": "vitoria" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "flamengo",
+        "visitor": "ceara" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "bahia",
+        "visitor": "sport" 
+      }
+    ]
+  }, 
+  {
+    "round": 38, 
+    "matches": [
+      {
+        "match": 1, 
+        "principal": "mirassol",
+        "visitor": "flamengo" 
+      }, 
+      {
+        "match": 2, 
+        "principal": "atletico",
+        "visitor": "vasco" 
+      }, 
+      {
+        "match": 3, 
+        "principal": "ceara",
+        "visitor": "palmeiras" 
+      }, 
+      {
+        "match": 4, 
+        "principal": "vitoria",
+        "visitor": "sao-paulo" 
+      }, 
+      {
+        "match": 5, 
+        "principal": "internacional",
+        "visitor": "rb-bragantino" 
+      }, 
+      {
+        "match": 6, 
+        "principal": "santos",
+        "visitor": "cruzeiro" 
+      }, 
+      {
+        "match": 7,
+        "principal": "sport",
+        "visitor": "gremio" 
+      }, 
+      {
+        "match": 8, 
+        "principal": "fluminense",
+        "visitor": "bahia" 
+      }, 
+      {
+        "match": 9, 
+        "principal": "botafogo",
+        "visitor": "fortaleza" 
+      }, 
+      {
+        "match": 10, 
+        "principal": "corinthians",
+        "visitor": "juventude" 
+      }
+    ]
+  } 
 ]
