@@ -2,6 +2,7 @@
 import Image from "next/image";
 import React, {useState, useEffect} from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
+import ButtonClose from "@/components/ButtonClose/ButtonClose";
 
 const Table = ()=>{
     const [ matches, setMatches] = useState<any>(null);
@@ -35,6 +36,7 @@ const Table = ()=>{
     }
     return(
         <div className="bg-black/85 text-white w-full h-full flex justify-between items-center lg:flex-row flex-col">
+            <ButtonClose/>
             <div className="lg:h-full h-24 lg:w-40 w-screen flex justify-center items-center">
                 <h1 className="lg:text-7xl text-4xl  lg:-rotate-90 uppercase">Jogos</h1>
             </div>
@@ -53,7 +55,7 @@ const Table = ()=>{
                                             <X color="#ffffff" size={40} strokeWidth={1}/>
                                         </div>
                                         <div>
-                                        <Image unoptimized className="lg:w-24 lg:h-24 w-12" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
+                                        <Image unoptimized className="animate-enter lg:w-24 lg:h-24 w-12" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
                                         </div>
                                     </div>
                                 ))
