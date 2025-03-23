@@ -4,6 +4,7 @@ import React, {useState, useEffect} from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import ButtonClose from "@/components/ButtonClose/ButtonClose";
 import Loading from "@/components/Loading/Loading";
+import ScreenAnimateEnter from "@/components/ScreenAnimateEnter/ScreenAnimateEnter";
 
 const Table = ()=>{
     const [ matches, setMatches] = useState<any>(null);
@@ -37,6 +38,7 @@ const Table = ()=>{
     }
     return(
         <div className="bg-black/85 text-white w-full h-full flex justify-between items-center lg:flex-row flex-col">
+            <ScreenAnimateEnter direction={'left-0'}/>
             <ButtonClose/>
             <div className="lg:h-full h-24 lg:w-40 w-screen flex justify-center items-center">
                 <h1 className="lg:text-7xl text-4xl  lg:-rotate-90 uppercase">Jogos</h1>
