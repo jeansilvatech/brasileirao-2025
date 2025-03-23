@@ -11,9 +11,9 @@ const MenuBar = ()=>{
             <button className="uppercase text-sm lg:text-md rounded-l-full border-2 border-r-transparent p-2 
                              hover:text-yellow-500
                              cursor-pointer"
-                             onClick={()=>{router.push('equipes')}}
+                             onClick={()=>{router.push('times')}}
                              >
-                                Equipes
+                                Times
             </button>
             <Image className="lg:w-24 w-20" width={100} height={100} src={logoBrasileirao} alt="Logo do brasileirão"/>
             <button className="uppercase text-sm lg:text-md rounded-r-full border-2 border-l-transparent p-2
