@@ -1,17 +1,18 @@
 "use client"
-import Image from "next/image";
-import React, {useState, useEffect} from "react";
-import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import ButtonClose from "@/components/ButtonClose/ButtonClose";
 import Loading from "@/components/Loading/Loading";
 import ScreenAnimateEnter from "@/components/ScreenAnimateEnter/ScreenAnimateEnter";
-import { useRouter } from "next/navigation";
-const Table = ()=>{
+import { ChevronLeft, ChevronRight, X } from "lucide-react";
+import Image from "next/image";
+import React, { useEffect, useState } from "react";
+
+const Selection = ()=>{
     const [ matches, setMatches] = useState<any>(null);
     const [ round, setRound ]= useState(0);
     const [ totalRounds, setTotalRounds ] = useState(0);
-    const router = useRouter();
-
+    let windowParams = window.location;
+    const params = new URLSearchParams(windowParams.search);
+    const name = params.get('name');
         
         const apiMatches = async(round:number)=>{
             try{
@@ -48,23 +49,28 @@ const Table = ()=>{
                 <h2 className="w-full text-center uppercase font-semibold lg:text-4xl">{round+1}ª rodada</h2>
                 {
                     matches?(
-                        <div className="lg:w-auto w-full flex justify-center items-center flex-wrap">
+                        <div className="lg:w-auto w-full flex justify-center items-center flex-wrap flex-col">
                             {
                                 matches.map((item:any, index:number)=>(
-                                    <div key={index} className="flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
-                                        <div onClick={()=>{router.push(`por_time?name=${item.principal}`)}} className="flex justify-center items-center">
-                                            <Image unoptimized className="lg:w-24 lg:h-24 w-12" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
+                                    item.principal==name || item.visitor ==name?(
+                                        <div key={index} className="lg:w-auto w-full flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
+                                        <div className="flex justify-center items-center">
+                                            <Image unoptimized className="w-24 h-24" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
                                         </div>
                                         <div className="">
                                             <X color="#ffffff" size={40} strokeWidth={1}/>
                                         </div>
-                                        <div onClick={()=>{router.push(`por_time?name=${item.visitor}`)}} className="flex justify-center items-center">
-                                        <Image unoptimized className="animate-enter lg:w-24 lg:h-24 w-12" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
+                                        <div>
+                                        <Image unoptimized className="w-24 h-24" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
                                         </div>
-                                    </div>
+                                        </div>
+                                    ):(
+                                        ''
+                                    )
+                                    
                                 ))
                             }
-                            <div className="w-full flex justify-center items-center">
+                            <div className="flex justify-center items-center">
                             <button className="cursor-pointer p-2 bg-white/30 hover:bg-yellow-500" onClick={prevRound} disabled={round===0}>
                                 <ChevronLeft size={30} color="#ffff"/>
                             </button>
@@ -83,4 +89,4 @@ const Table = ()=>{
         </div>
     )
 }
-export default Table;
+export default Selection
