@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 const MenuBar = ()=>{
     const router = useRouter()
     return(
-        <nav className="w-full lg:h-40 flex justify-center items-center absolute top-0">
+        <nav className="w-full lg:h-40 flex justify-center items-center absolute top-0 animate-enter">
             <button className="uppercase text-sm lg:text-md rounded-l-full border-2 border-r-transparent p-2 
                              hover:text-yellow-500
                              cursor-pointer"

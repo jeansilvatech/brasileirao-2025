@@ -3,6 +3,7 @@ import Image from "next/image";
 import React, {useState, useEffect} from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import ButtonClose from "@/components/ButtonClose/ButtonClose";
+import Loading from "@/components/Loading/Loading";
 
 const Table = ()=>{
     const [ matches, setMatches] = useState<any>(null);
@@ -40,7 +41,7 @@ const Table = ()=>{
             <div className="lg:h-full h-24 lg:w-40 w-screen flex justify-center items-center">
                 <h1 className="lg:text-7xl text-4xl  lg:-rotate-90 uppercase">Jogos</h1>
             </div>
-            <div className="h-full w-full flex justify-center items-center flex-col">
+            <div className="h-full w-full flex justify-center items-center flex-col relative">
                 <h2 className="w-full text-center uppercase font-semibold lg:text-4xl">{round+1}ª rodada</h2>
                 {
                     matches?(
@@ -48,7 +49,7 @@ const Table = ()=>{
                             {
                                 matches.map((item:any, index:number)=>(
                                     <div key={index} className="flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
-                                        <div>
+                                        <div className="flex justify-center items-center">
                                             <Image unoptimized className="lg:w-24 lg:h-24 w-12" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
                                         </div>
                                         <div className="">
@@ -68,12 +69,11 @@ const Table = ()=>{
                                 <ChevronRight size={30} color="#ffff"/>
                             </button>
     
-                            </div>
-                            
+                            </div>  
                         </div>
 
                     ):(
-                        ''
+                       <Loading/> 
                     )
                 }
             </div>

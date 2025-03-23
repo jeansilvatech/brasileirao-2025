@@ -1,5 +1,6 @@
 "use client"
 import ButtonClose from "@/components/ButtonClose/ButtonClose";
+import Loading from "@/components/Loading/Loading";
 import Image from "next/image";
 import React, {useEffect, useState} from "react";
 
@@ -37,7 +38,7 @@ const Teams = ()=>{
                         </div>
 
                     ):(
-                        ''
+                        <Loading/>
                     )
             }
             </div>
