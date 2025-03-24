@@ -40,7 +40,7 @@ const Selection = ()=>{
         const params = new URLSearchParams(windowParams.search);
         const name = params.get('name');
         return(
-            <div className="bg-black/90 text-white w-full h-full flex justify-between items-center lg:flex-row flex-col">
+            <div className="bg-black/90 text-white w-full h-full overflow-y-hidden flex justify-between items-center lg:flex-row flex-col">
                 <ScreenAnimateEnter direction={'left-0'}/>
                 <ButtonClose/>
                 <div className="absolute top-0 right-0 w-full h-full flex justify-end items-start
@@ -58,7 +58,7 @@ const Selection = ()=>{
                                 {
                                     matches.map((item:any, index:number)=>(
                                         item.principal==name || item.visitor ==name?(
-                                            <div key={index} className="lg:w-auto w-full flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
+                                            <div key={index} className="lg:w-auto w-full flex justify-center items-center animate-enter lg:bg-white/20 lg:backdrop-blur-3xl bg-transparent backdrop-blur-none p-4 m-2 hover:bg-yellow-500 cursor-pointer">
                                                 <div className="flex justify-center items-center">
                                                     <Image unoptimized className="w-24 h-24" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
                                                 </div>
