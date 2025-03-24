@@ -43,6 +43,10 @@ const Selection = ()=>{
             <div className="bg-black/85 text-white w-full h-full flex justify-between items-center lg:flex-row flex-col">
                 <ScreenAnimateEnter direction={'left-0'}/>
                 <ButtonClose/>
+                <div className="absolute top-0 right-0 w-full h-full flex justify-end items-start
+                                before:content-[''] before:inset-0 before:absolute before:w-full before:h-full lg:before:bg-gradient-to-l lg:before:via-black/70 lg:before:from-black before:bg-black/95">
+                    <Image unoptimized className="w-auto h-full object-contain object-center" src={`/assets/${name}.svg`}  width={90} height={90} alt=""  />
+                </div>
                 <div className="lg:h-full h-24 lg:w-40 w-screen flex justify-center items-center">
                     <h1 className="lg:text-7xl text-4xl  lg:-rotate-90 uppercase">Jogos</h1>
                 </div>
@@ -55,15 +59,15 @@ const Selection = ()=>{
                                     matches.map((item:any, index:number)=>(
                                         item.principal==name || item.visitor ==name?(
                                             <div key={index} className="lg:w-auto w-full flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
-                                            <div className="flex justify-center items-center">
-                                                <Image unoptimized className="w-24 h-24" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
-                                            </div>
-                                            <div className="">
-                                                <X color="#ffffff" size={40} strokeWidth={1}/>
-                                            </div>
-                                            <div>
-                                            <Image unoptimized className="w-24 h-24" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
-                                            </div>
+                                                <div className="flex justify-center items-center">
+                                                    <Image unoptimized className="w-24 h-24" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
+                                                </div>
+                                                <div className="">
+                                                    <X color="#ffffff" size={40} strokeWidth={1}/>
+                                                </div>
+                                                <div className="flex justify-center items-center">
+                                                <Image unoptimized className="w-24 h-24" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
+                                                </div>
                                             </div>
                                         ):(
                                             ''
