@@ -41,7 +41,6 @@ body {
 
 
 *{
-  overflow-x: hidden;
   transition: .5s;
 }
 body{
