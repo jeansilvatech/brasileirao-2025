@@ -40,7 +40,7 @@ const Selection = ()=>{
         const params = new URLSearchParams(windowParams.search);
         const name = params.get('name');
         return(
-            <div className="bg-black/90 text-white w-full h-full overflow-y-hidden flex justify-between items-center lg:flex-row flex-col">
+            <div className="bg-black/90 text-white w-full h-full overflow-x-hidden flex justify-between items-center lg:flex-row flex-col">
                 <ScreenAnimateEnter direction={'left-0'}/>
                 <ButtonClose/>
                 <div className="absolute top-0 right-0 w-full h-full flex justify-end items-start
