@@ -53,13 +53,13 @@ const Table = ()=>{
                                 matches.map((item:any, index:number)=>(
                                     <div key={index} className="flex justify-center items-center animate-enter bg-white/20 backdrop-blur-3xl p-4 m-2 hover:bg-yellow-500 cursor-pointer">
                                         <div onClick={()=>{router.push(`por_time?name=${item.principal}`)}} className="flex justify-center items-center">
-                                            <Image unoptimized className="lg:w-24 lg:h-24 w-12" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
+                                            <Image unoptimized className="lg:w-24 lg:h-24 w-12 h-12" src={`/assets/${item.principal}.svg`}  width={90} height={90} alt="" />
                                         </div>
                                         <div className="">
                                             <X color="#ffffff" size={40} strokeWidth={1}/>
                                         </div>
                                         <div onClick={()=>{router.push(`por_time?name=${item.visitor}`)}} className="flex justify-center items-center">
-                                        <Image unoptimized className="animate-enter lg:w-24 lg:h-24 w-12" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
+                                        <Image unoptimized className="animate-enter lg:w-24 lg:h-24 w-12 h-12" src={`/assets/${item.visitor}.svg`}  width={90} height={90} alt="" />
                                         </div>
                                     </div>
                                 ))
