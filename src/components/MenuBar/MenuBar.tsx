@@ -8,7 +8,7 @@ const MenuBar = ()=>{
     const router = useRouter()
     return(
         <nav className="w-full lg:h-40 flex justify-center items-center absolute top-0 animate-enter">
-            <button className="uppercase text-sm lg:text-md rounded-l-full border-2 border-r-transparent p-2 
+            <button className="uppercase text-sm lg:text-md rounded-l-full border-2 border-r-transparent lg:px-6 lg:py-2 px-2 py-2 
                              hover:text-yellow-500
                              cursor-pointer"
                              onClick={()=>{router.push('times')}}
@@ -16,7 +16,7 @@ const MenuBar = ()=>{
                                 Times
             </button>
             <Image className="lg:w-24 w-20" width={100} height={100} src={logoBrasileirao} alt="Logo do brasileirão"/>
-            <button className="uppercase text-sm lg:text-md rounded-r-full border-2 border-l-transparent p-2
+            <button className="uppercase text-sm lg:text-md rounded-r-full border-2 border-l-transparent lg:px-6 lg:py-2 px-2 py-2
                             hover:text-yellow-500
                              cursor-pointer"
                              onClick={()=>{router.push('jogos')}}

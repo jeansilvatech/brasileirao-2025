@@ -40,11 +40,11 @@ const Selection = ()=>{
         const params = new URLSearchParams(windowParams.search);
         const name = params.get('name');
         return(
-            <div className="bg-black/90 text-white w-full h-full overflow-hidden flex justify-between items-center lg:flex-row flex-col">
+            <div className="bg-black/90 text-white w-screen h-screen overflow-hidden flex justify-between items-center lg:flex-row flex-col">
                 <ScreenAnimateEnter direction={'left-0'}/>
                 <ButtonClose/>
                 <div className="absolute top-0 right-0 w-full h-full flex justify-end items-start
-                                before:content-[''] before:inset-0 before:absolute before:w-full before:h-full lg:before:bg-gradient-to-l lg:before:via-black/70 lg:before:from-black before:bg-gradient-to-t before:via-black/95 before:from-black/95">
+                                before:content-[''] before:inset-0 before:absolute before:w-full before:h-full lg:before:bg-gradient-to-l lg:before:via-black/70 lg:before:from-black before:bg-gradient-to-t before:via-black/95 before:from-black">
                     <Image unoptimized className="w-auto h-full object-contain object-center" src={`/assets/${name}.svg`}  width={90} height={90} alt=""  />
                 </div>
                 <div className="lg:h-full h-24 lg:w-40 w-screen flex justify-center items-center">

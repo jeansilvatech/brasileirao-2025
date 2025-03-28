@@ -8,7 +8,7 @@ const montserrat = Montserrat({
 
 
 export const metadata: Metadata = {
-  title: "Brasileirão 2025",
+  title: "Brasileirão 2025 | Times e Jogos",
   description: "Equipes participantes e tabela completa do campeonato",
 };
 
