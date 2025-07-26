@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BRASILEIRÃO 2025
 
-## Getting Started
+Aplicação Web listando todas equipes participantes e jogos do Brasileirão 2025.
 
-First, run the development server:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" />
+</div>
+  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img width="1599" height="779" alt="image" src="https://github.com/user-attachments/assets/9dd90fea-fc9f-48d6-a862-7cebc48d453a" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img width="1599" height="780" alt="image" src="https://github.com/user-attachments/assets/d2cece6d-48da-454a-ad68-52b41dfd0d10" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="1599" height="781" alt="image" src="https://github.com/user-attachments/assets/cc302de2-d008-41e7-8d59-3d8352c2c4b8" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/a201d56f-a2cc-45c6-a2f6-86599813e9b2" />
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
